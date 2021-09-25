@@ -1,0 +1,14 @@
+.line {
+    height: 6px;
+    background-color: blue;
+    width: 1000px;
+    margin: 8px auto;
+}
+#display
+{
+	border: 1px solid green;
+    padding: 10px;
+	background-color: lightskyblue;
+	border-radius: 10px;
+    width: 50%;
+}
